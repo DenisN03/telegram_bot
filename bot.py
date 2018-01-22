@@ -1,6 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import requests  
 import datetime
-import BotHandler
 from time import sleep
 
 token = "496461322:AAESThnYVDVYim2OG11z8K9e6jExPVHMUJE"
